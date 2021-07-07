@@ -1,5 +1,7 @@
 # BITAmin_7th_Assignment
-* 연합 빅데이터 분석 동아리 BITAmin 7기 (21.02~ing)
+* 연합 빅데이터 분석 동아리 BITAmin 7기 정규세션 
+* 카페: https://cafe.naver.com/bitamin123
+* 기간: 21.02~ing
 * 교재: 파이썬 머신러닝 알고리즘
 
 |       Date       | Week | Topic |
