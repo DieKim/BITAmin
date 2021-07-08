@@ -1,9 +1,9 @@
 # BITAmin_7th_Main_Session
 연합 빅데이터 분석 동아리 [BITAmin](https://cafe.naver.com/bitamin123) 7기 정규세션 활동 내용입니다. (21.02~ing)
 
-* Team: 2조(김다희, 김정하, 박민호, 백창연)
+### Team: 2조(김다희, 김정하, 박민호, 백창연)
 
-* Curriculum: [파이썬 머신러닝 완벽 가이드](https://github.com/wikibook/ml-definitive-guide) & 자체 자료
+### Curriculum: [파이썬 머신러닝 완벽 가이드](https://github.com/wikibook/ml-definitive-guide) & 자체 자료
 
 |       Index       | Date | Contents | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:----------:| :----------: 
