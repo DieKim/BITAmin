@@ -5,9 +5,9 @@
 
 ### 💡 Team  
 2조(김다희, 김정하, 박민호, 백창연) 
-
+<br>
 ### 💡 Curriculum
-
+<br>
 |       Index       | Date | Contents | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:----------:| :----------: 
 | 01 | 2021.02.20 | 분석프로그래밍(1) / 머신러닝을 위한 수학 | 교육부 | [Slide1](https://github.com/DieKim/BITAmin_Session_ML/blob/main/01_%EB%B6%84%EC%84%9D%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/01%20%EB%B6%84%EC%84%9D%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1.pdf) / [Slide2](https://github.com/DieKim/BITAmin_Session_ML/blob/main/01_%EB%B6%84%EC%84%9D%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/01%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%88%98%ED%95%99.pdf) |
@@ -23,6 +23,6 @@
 | 11 | 2021.06.26 | 차원축소 | 3조 | [Slide](https://github.com/DieKim/BITAmin_Session_ML/blob/main/11_%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C/11%20%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C.pdf) |
 | 12 | 2021.07.03 | 크롤링 | 교육부 | [Slide](https://github.com/DieKim/BITAmin_Session_ML/blob/main/12_%ED%81%AC%EB%A1%A4%EB%A7%81/12%20%EC%9B%B9%ED%81%AC%EB%A1%A4%EB%A7%81.pdf) |
 | 13 | 2021.07.10 | 군집화 | 4조 | [Slide](https://github.com/DieKim/BITAmin_Session_ML/blob/main/13_%EA%B5%B0%EC%A7%91%ED%99%94/13%20%EA%B5%B0%EC%A7%91%ED%99%94.pdf) |
-
+<br>
 ### 💡 Reference
 [파이썬 머신러닝 완벽 가이드](https://github.com/wikibook/ml-definitive-guide) & 자체 자료
