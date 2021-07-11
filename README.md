@@ -3,9 +3,10 @@
 
 <br>   
 
-### 💡 Team: 2조(김다희, 김정하, 박민호, 백창연) 
+### 💡 Team  
+2조(김다희, 김정하, 박민호, 백창연) 
 
-### 💡 Curriculum: [파이썬 머신러닝 완벽 가이드](https://github.com/wikibook/ml-definitive-guide) & 자체 자료
+### 💡 Curriculum
 
 |       Index       | Date | Contents | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:----------:| :----------: 
@@ -22,3 +23,6 @@
 | 11 | 2021.06.26 | 차원축소 | 3조 | [Slide](https://github.com/DieKim/BITAmin_Session_ML/blob/main/11_%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C/11%20%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C.pdf) |
 | 12 | 2021.07.03 | 크롤링 | 교육부 | [Slide](https://github.com/DieKim/BITAmin_Session_ML/blob/main/12_%ED%81%AC%EB%A1%A4%EB%A7%81/12%20%EC%9B%B9%ED%81%AC%EB%A1%A4%EB%A7%81.pdf) |
 | 13 | 2021.07.10 | 군집화 | 4조 | [Slide](https://github.com/DieKim/BITAmin_Session_ML/blob/main/13_%EA%B5%B0%EC%A7%91%ED%99%94/13%20%EA%B5%B0%EC%A7%91%ED%99%94.pdf) |
+
+### 💡 Reference
+[파이썬 머신러닝 완벽 가이드](https://github.com/wikibook/ml-definitive-guide) & 자체 자료
