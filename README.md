@@ -22,7 +22,7 @@
 | 09 | 2021.05.19 | 단순회귀 / 다중회귀 / 다항회귀 | 1조 | [Slide](https://github.com/DieKim/BITAmin_Session_ML/blob/main/09_%EB%8B%A8%EC%88%9C%ED%9A%8C%EA%B7%80_%EB%8B%A4%EC%A4%91%ED%9A%8C%EA%B7%80_%EB%8B%A4%ED%95%AD%ED%9A%8C%EA%B7%80/09%20%EB%8B%A8%EC%88%9C%ED%9A%8C%EA%B7%80%2C%20%EB%8B%A4%EC%A4%91%ED%9A%8C%EA%B7%80%2C%20%EB%8B%A4%ED%95%AD%ED%9A%8C%EA%B7%80.pdf) |
 | 10 | 2021.05.26 | 로지스틱회귀 / 회귀트리 / 회귀실습 | 2조 | [Slide](https://github.com/DieKim/BITAmin_Session_ML/blob/main/10_%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80_%ED%9A%8C%EA%B7%80%ED%8A%B8%EB%A6%AC_%ED%9A%8C%EA%B7%80%EC%8B%A4%EC%8A%B5/10%20%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%20%ED%9A%8C%EA%B7%80%2C%20%ED%9A%8C%EA%B7%80%ED%8A%B8%EB%A6%AC%2C%20%ED%9A%8C%EA%B7%80%EC%8B%A4%EC%8A%B5.pdf) |
 | 11 | 2021.06.26 | 차원축소 | 3조 | [Slide](https://github.com/DieKim/BITAmin_Session_ML/blob/main/11_%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C/11%20%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C.pdf) |
-| 12 | 2021.07.03 | 크롤링 | 교육부 | [Slide](https://github.com/DieKim/BITAmin_Session_ML/blob/main/12_%ED%81%AC%EB%A1%A4%EB%A7%81/12%20%EC%9B%B9%ED%81%AC%EB%A1%A4%EB%A7%81.pdf) |
+| 12 | 2021.07.03 | 웹 크롤링 | 교육부 | [Slide](https://github.com/DieKim/BITAmin_Session_ML/blob/main/12_%ED%81%AC%EB%A1%A4%EB%A7%81/12%20%EC%9B%B9%ED%81%AC%EB%A1%A4%EB%A7%81.pdf) |
 | 13 | 2021.07.10 | 군집화 | 4조 | [Slide](https://github.com/DieKim/BITAmin_Session_ML/blob/main/13_%EA%B5%B0%EC%A7%91%ED%99%94/13%20%EA%B5%B0%EC%A7%91%ED%99%94.pdf) |
 
 <br>
