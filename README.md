@@ -1,5 +1,5 @@
 # BITAmin_7th_Main_Session
-연합 빅데이터 분석 동아리 [BITAmin](https://cafe.naver.com/bitamin123) 7기 정규세션 활동 내용입니다. (21.02~ing)
+연합 빅데이터 분석 동아리 [BITAmin](https://cafe.naver.com/bitamin123) 7기 정규세션 활동 내용입니다. (21.02~21.08)
 
 <br>   
 
